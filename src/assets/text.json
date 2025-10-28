@@ -1,0 +1,38 @@
+{
+    "cards": [
+        {
+            "title":"Welcome to my Portfolio!",
+            "p1": "<p>   I’m a Junior Software Engineer specializing Front End, UI/UX and Website developing . I have strong passion in designing from website and 2D graphics (and i love cats!)   </p>",
+            "p2":"<p>   Below are some of details about my projects and contacts!   </p>"
+        },
+        {
+            "title":"",
+            "p1":"<p>   Interested to work together? Just click the button and we will talk!   </p>",
+            "p2":""
+        }
+    ], 
+    "project": [
+        {
+            "title":"<h1>   Portfolio Website   </h1> ",
+            "framework":"<h2>   React.js  / /  CSS  </h2>",
+            "desc":"<p>  Lorem Ipsom yadayada   </p>",
+            "pics":[""],
+            "alt":""
+        },
+        {
+            "title":"<h1>   Malaysia Tourism Website   </h1> ",
+            "framework":"<h2>   React  / /  Express  / /  SQLite  / / Node.js  / /  CSS / / JavaScript   </h2>",
+            "desc":"<p>   This tourism website are for promoting Malaysia by showing cultural, foods and the people of Malaysia with more fun and interactive way such as interactive map that shows specilities of each state in Malaysia.   </p> ",
+            "pics":["./mainpage.png"],
+            "alt":"tourism website mainpage screenshot"
+        },
+        {
+            "title":"<h1>   Shooting Pixel 2D Games   </h1> ",
+            "framework":"<h2>   Unity Engine  / /  C  </h2>",
+            "desc":"<p>   This game is a simple project for my course work during my third year of university. User will need to catch all the ghost by shooting fireball. The game contain real life physic such as that the fireball will shoot following the trajectory that the user have aim for.   </p> ",
+            "pics":["./uni1.png", "./uni2.png", "./uni3.png"],
+            "alt":""
+        }
+        
+    ]
+}
